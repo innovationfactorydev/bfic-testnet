@@ -15,11 +15,9 @@
   "shortName": "bfic",
   "chainId": 12213,
   "networkId": 12213,
-  "icon": "BFIC",
   "explorers": [{
     "name": "BFIC Testnet",
     "url": "https://testnet.bficscan.io",
-    "icon": "bficscan",
-    "standard": "EIP3091"
+    "standard": "none"
   }]
 }
